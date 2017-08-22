@@ -1,4 +1,4 @@
-package Array;
+package array;
 
 public class FindTopTwoMax {
 	// 先将最大的找到，分别在其左右两侧找最大的即可

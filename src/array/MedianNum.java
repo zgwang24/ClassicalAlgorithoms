@@ -1,4 +1,4 @@
-package Array;
+package array;
 
 public class MedianNum {
 	// 1分治思想

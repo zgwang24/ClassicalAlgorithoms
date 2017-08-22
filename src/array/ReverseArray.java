@@ -1,4 +1,4 @@
-package Array;
+package array;
 
 public class ReverseArray {
 	public static void reverseArray(int[] a, int lo, int hi){

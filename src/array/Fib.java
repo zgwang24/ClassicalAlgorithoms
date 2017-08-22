@@ -1,4 +1,4 @@
-package Array;
+package array;
 
 public class Fib {
 	// ì³²¨ÄÇÆõO(2^n)

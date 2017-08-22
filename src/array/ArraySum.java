@@ -1,4 +1,4 @@
-package Array;
+package array;
 
 public class ArraySum {
 	// 利用循环进行数组循环
